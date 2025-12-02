@@ -9,5 +9,23 @@ Understanding why people choose public or private transport is essential for sol
 # Result
 
 <p align="center">
-<img src="fig1.jpg" align="center" width="75%"/>
+<img src="test_size.png" align="center" width="75%"/>
 </p>
+<p align="center">
+<img src="train_size.png" align="center" width="75%"/>
+</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="public.png" width="90%"><br>
+      <em>SHAP summary plot for public transport usage, illustrating the influence of various features on predictions. </em>
+    </td>
+    <td align="center">
+      <img src="private.png" width="90%"><br>
+      <em>SHAP summary plot for private transport usage, illustrating the influence of various features on predictions.</em>
+    </td>
+  </tr>
+</table>
+
+
