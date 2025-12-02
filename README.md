@@ -1,3 +1,6 @@
+
+[![DOI](https://zenodo.org/badge/970345454.svg)](https://doi.org/10.5281/zenodo.17794915)
+
 # Explainable Machine Learning for Understanding Trip Mode Choice: Evidence from the 2022 U.S. National Household Travel Survey
 Understanding why people choose public or private transport is essential for solving congestion, emissions, and access challenges. Using data from the 2022 National Household Travel Survey, this study builds and evaluates three machine learning models KNN, Random Forest, and XGBoost to predict individual mode choice. Model performance is assessed through accuracy and ROC AUC, then ranked for robustness. SHAP analysis exposes the variables that most strongly shape decisions, giving transparent insight into behavioral drivers. The results show that machine learning can reliably forecast mode choice and provide planners with evidence to design more sustainable and congestion reducing mobility strategies.
 # Methodology
